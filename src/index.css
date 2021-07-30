@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap");
+h1 {
+  font-family: "Roboto Mono", monospace;
+}
+
+/* *{
+  background-color: black;
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#death:hover {
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
+#recovered:hover {
+  background-color: green;
+  color: white;
+  cursor: pointer;
+}
+
+#confirmed:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+#active:hover {
+  background-color: orangered;
+  color: white;
+  cursor: pointer;
+}
