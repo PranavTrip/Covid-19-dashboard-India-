@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PranavTrip/Covid-19-dashboard-India-.git/static/css/main.391393ed.chunk.css",
+    "main.js": "/PranavTrip/Covid-19-dashboard-India-.git/static/js/main.17c21650.chunk.js",
+    "main.js.map": "/PranavTrip/Covid-19-dashboard-India-.git/static/js/main.17c21650.chunk.js.map",
+    "runtime-main.js": "/PranavTrip/Covid-19-dashboard-India-.git/static/js/runtime-main.69e5c907.js",
+    "runtime-main.js.map": "/PranavTrip/Covid-19-dashboard-India-.git/static/js/runtime-main.69e5c907.js.map",
+    "static/css/2.4be38407.chunk.css": "/PranavTrip/Covid-19-dashboard-India-.git/static/css/2.4be38407.chunk.css",
+    "static/js/2.eb2822dc.chunk.js": "/PranavTrip/Covid-19-dashboard-India-.git/static/js/2.eb2822dc.chunk.js",
+    "static/js/2.eb2822dc.chunk.js.map": "/PranavTrip/Covid-19-dashboard-India-.git/static/js/2.eb2822dc.chunk.js.map",
+    "index.html": "/PranavTrip/Covid-19-dashboard-India-.git/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/PranavTrip/Covid-19-dashboard-India-.git/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.391393ed.chunk.css.map": "/PranavTrip/Covid-19-dashboard-India-.git/static/css/main.391393ed.chunk.css.map",
+    "static/js/2.eb2822dc.chunk.js.LICENSE.txt": "/PranavTrip/Covid-19-dashboard-India-.git/static/js/2.eb2822dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69e5c907.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.eb2822dc.chunk.js",
+    "static/css/main.391393ed.chunk.css",
+    "static/js/main.17c21650.chunk.js"
+  ]
+}
